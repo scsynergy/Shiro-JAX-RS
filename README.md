@@ -1,6 +1,6 @@
 # Shiro-JAX-RS
 
-Needs Adoptium jdk-17.0.7+7 and Wildfly 26.1.3 with this initial setup:
+Needs Adoptium jdk-17.0.7+7 and Wildfly 26.1.3 (https://www.wildfly.org/downloads/) with this initial setup:
 
 Place the files shiro-core-1.11.0.jar, shiro-web-1.11.0.jar and encoder-1.2.3.jar into the directory [WLDFLY_HOME]/modules/org/apache/shiro/main/
 
